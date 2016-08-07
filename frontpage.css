@@ -444,8 +444,8 @@ html { box-sizing: border-box; }
 .we-band-big { padding-top: 60px; padding-bottom: 60px; font-weight: 500; }
 .we-band-narrow { padding-top: 20px; padding-bottom: 20px; }
 .we-band-purple { background-color: rgba(200, 105, 191, 0.5); }
-.we-band-orange { background-color: #fab12588; }
-.we-band-blue { background-color: #49a7e988; }
+.we-band-orange { background-color: rgba(250, 177, 37, 0.56); }
+.we-band-blue { background-color: rgba(73, 167, 233, 0.5); }
 .we-band-white { background-color: rgba(255, 255, 255, 0.8); }
 
 .border-black { border-color: #111111 !important; }
