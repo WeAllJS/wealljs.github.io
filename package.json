@@ -1,11 +1,11 @@
 {
-  "name": "cornerstone",
-  "version": "0.1.1",
-  "description": "Boilerplate for static sites",
+  "name": "wealljs.org",
+  "version": "1.0.0",
+  "description": "Site generator for wealljs.org",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "gesa/cornerstone"
+    "url": "https://github.com/wealljs/wealljs.github.io"
   },
   "author": {
     "name": "Aki Rose Braun",
@@ -14,7 +14,7 @@
   },
   "engines": {
     "node": ">=5",
-    "npm": ">=3"
+    "npm": "3"
   },
   "scripts": {
     "preinstall": "gem install bundler",
