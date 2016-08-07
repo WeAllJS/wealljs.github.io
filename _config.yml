@@ -1,73 +1,38 @@
-#################################################
-# Config: Development                           #
-#################################################
-# (production settings go in _config.build.yml) #
+---
 
-#############
-# Meta info #
-#############
+port: 4000
+host: 0.0.0.0
+safe: false
 
-name: We All JS
-url: 'http://wealljs.org'
-description: 'A JavaScript Community for All of Us'
-timezone: America/Los_Angeles
-favicon: /favicon.ico # <-- feel free to change but it should be something
-# googleanalytics: UA-00000000-1
 
-twitter: '@wealljs'
-twitterid: 759939578593542144  # Twitter account ID
-# googleid: 99999999999999999999 # Publisher ID
-
-share:
-  image: /path/to/image.jpg
-  width: 1200 # Facebook recommends minimum of 1200 x 630
-  height: 630
-  title: also share title can be different from search engine/browser title
-  description: Facebook share text can be different from search engine text
-
-#############
-# Authoring #
-#############
-
-future: true
-show_drafts: true
-permalink: pretty
-
-collections:
-  root:
-    permalink: /:title
-    output: true
-    layout: none
-  static:
-    permalink: /:path/
-    output: true
-
-defaults:
-  - scope:
-      path: ''
-      type: root
-    values:
-      layout: none
-  - scope:
-      path: ''
-      type: static
-    values:
-      layout: default
-  - scope:
-      path: ''
-    values:
-      layout: 'default'
-
-#############
-# Compiling #
-#############
-
-exclude: ['img']
-keep_files: ['img', 'js', 'css']
-
-highlighter: rouge
-
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore]
+permalink: /:title ## disables post output
+timezone: null
+lsi: false
 markdown: kramdown
+
+
+### content configuration ###
+title:       "SinglePaged - Simple Jekyll template"
+keywords:    "SinglePaged, jekyll, template, github, blog, single page"
+description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
+source_link: "https://github.com/t413/SinglePaged"
+favicon:     "img/favicon.ico"
+touch_icon:  "img/apple-touch-icon.png"
+google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
+
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#f8f8f8'
+  blue:      '#49a7e9'
+  green:     '#9bcf2f'
+  purple:    '#c869bf'
+  orange:    '#fab125'
+  turquoise: '#0fbfcf'
+
 kramdown:
-  input: GFM
-  smart_quotes: ['apos', 'apos', 'quot', 'quot']
+  auto_ids:  false
+
