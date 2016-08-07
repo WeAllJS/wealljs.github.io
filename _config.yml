@@ -14,13 +14,13 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "SinglePaged - Simple Jekyll template"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
+title:       "We All Js - A JavaScript Community for All of Us"
+keywords:    "wealljs, javascript, js, social justice, woc, poc, lgbtq, women in tech, diversity, inclusivity"
+description: "We All JS is a JavaScript community centered around inclusion, positive community building, mutual support, and opening up new opportunities. It is an experiment in building communities up in the modern tech industry, with hopes of helping develop processes and tools to make sure people who are usually excluded get to participate openly and comfortably."
+source_link: "https://github.com/wealljs/wealljs.github.io"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
+#google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
 
 
 ### template colors, used site-wide via css ###
@@ -35,4 +35,3 @@ colors:
 
 kramdown:
   auto_ids:  false
-
