@@ -1,3 +1,8 @@
+---
+title: "WeAllJS - Enforcement"
+permalink: /enforcement
+---
+
 # tl;dr
 
 1. Tell someone "hey, that's not ok".
@@ -8,12 +13,13 @@
 # Introduction
 
 No matter how kind or nice people think they are, at some point, someone's gonna
-say Some Shit:tm: and things are going to go awry. This document is meant as
-a writeup and guideline holding core values about what this community considers
+say Some Shit:tm: and things are going to go awry. This document is meant as a
+writeup and guideline holding core values about what this community considers
 the best approach to resolving these conflicts in a kind and positive way, as
-much as possible. It is a living document, informed by new problems, new
-conflicts, and always strives to help make the We All JS community successful
-while including the voices of those who are too often not heard.
+much as possible. It is paired with the community's [Code of
+Conduct](/code-of-conduct). It is a living document, informed by new problems,
+new conflicts, and always strives to help make the We All JS community
+successful while including the voices of those who are too often not heard.
 
 # Guiding Principles
 

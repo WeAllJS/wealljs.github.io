@@ -1,3 +1,8 @@
+---
+title: "WeAllJS - Code of Conduct"
+permalink: /code-of-conduct
+---
+
 # WeAllJS Code of Conduct
 
 ## Our Pledge
@@ -69,7 +74,7 @@ safety of its members.
 the violation over the comfort of the violator.**
 
 The detailed enforcement procedure for any violation of the WeAllJS community
-standards can be found at the [Enforcement Procedures](/enforcement.html) page.
+standards can be found at the [Enforcement Procedures](/enforcement) page.
 
 [tl;dr](https://en.wikipedia.org/wiki/TL%3BDR): Mention the issue to the person
 involved, if possible, and if needed, use one of the following methods to
@@ -85,7 +90,7 @@ other information that may be used to better understand and resolve the
 situation.
 
 The admin team will do its best to address the issue in a timely manner and
-follow the [enforcement procedure](/enforcement.html). They will, within reason,
+follow the [enforcement procedure](/enforcement). They will, within reason,
 keep you up to date on progress and do their best respect reasonable boundaries.
 
 Admins and other leaders who do not follow or enforce the Code of Conduct in

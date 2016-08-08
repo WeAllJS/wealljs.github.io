@@ -1,3 +1,8 @@
+---
+title: "WeAllJS - Culture and Process"
+permalink: /culture-and-process
+---
+
 # WeAllJS Culture and Process
 
 Beyond the [Code of Conduct](/code-of-conduct.html) and
