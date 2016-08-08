@@ -2,23 +2,23 @@
 
 ## Our Pledge
 
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, gender identity and expression, level of
-experience, technical preferences, nationality, personal appearance, race,
-religion, or sexual identity and orientation.
+In the interest of fostering an open and welcoming environment, we as members of
+the WeAllJS community pledge to making participation in our community a
+harassment-free experience for everyone, regardless of age, body size,
+disability, ethnicity, gender identity and expression, level of experience,
+technical preferences, nationality, personal appearance, race, religion, or
+sexual identity and orientation.
 
 ## Our Standards
 
 Examples of behavior that contributes to creating a positive environment
 include:
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy and kindness towards other community members
+* Using welcoming and inclusive language.
+* Being respectful of differing viewpoints and experiences.
+* Gracefully accepting constructive feedback.
+* Focusing on what is best for the community.
+* Showing empathy and kindness towards other community members.
 
 Examples of unacceptable behavior by participants include:
 
@@ -33,6 +33,7 @@ Examples of unacceptable behavior by participants include:
 * Publishing of non-harassing private communication.
 * Any of the above even when [presented as "ironic" or "joking"](https://en.wikipedia.org/wiki/Hipster_racism).
 * Any attempt to present "reverse-ism" versions of the above as violations. Examples of reverse-isms are "reverse racism", "reverse sexism", "heterophobia", and "cisphobia".
+* Unsolicited explanations under the assumption that someone doesn't already know it. Ask before you teach! Don't assume what people's knowledge gaps are.
 * Other conduct which could reasonably be considered inappropriate in a
   professional or community setting.
 
@@ -43,14 +44,15 @@ behavior and are expected to take appropriate and fair corrective action in
 response to any instances of unacceptable behavior.
 
 Admins have the right and responsibility to remove any messages, channels,
-images, or other contributions that are not aligned to this Code of Conduct, or
-to ban temporarily or permanently any contributor for other behaviors that they
-deem inappropriate, threatening, offensive, or harmful. Members expelled from
-events or venues with any sort of paid attendance will not be refunded.
+images, or other contributions that are not aligned with this Code of Conduct,
+or to ban temporarily or permanently any member or participant for other
+behaviors that they deem inappropriate, threatening, offensive, or harmful.
+Members expelled from events or venues with any sort of paid attendance will not
+be refunded.
 
 ## Scope
 
-This Code of Conduct applies both within community spaces and in public spaces
+This Code of Conduct applies both within community spaces and in other spaces
 involving the community. This includes the WeAllJS Slack, its Twitter community,
 private email communications in the context of the community, and any events
 where members of the community are participating, as well as adjacent
@@ -58,8 +60,8 @@ communities and venues affecting the community's members.
 
 Depending on the violation, the admins may decide that violations of this code
 of conduct that have happened outside of the scope of the community may deem an
-individual unwelcome in the community, and take appropriate action to maintain
-the comfort and safety of its members.
+individual unwelcome, and take appropriate action to maintain the comfort and
+safety of its members.
 
 ## Enforcement
 
@@ -69,8 +71,9 @@ the violation over the comfort of the violator.**
 The detailed enforcement procedure for any violation of the WeAllJS community
 standards can be found at the [Enforcement Procedures](/enforcement.html) page.
 
-[tl;dr](https://en.wikipedia.org/wiki/TL%3BDR): Use one of the following methods
-to contact the admin staff when you believe a violation has occurred:
+[tl;dr](https://en.wikipedia.org/wiki/TL%3BDR): Mention the issue to the person
+involved, if possible, and if needed, use one of the following methods to
+contact the admin staff when you believe a violation has occurred:
 
 * Use the `/admin` command in the WeAllJS Slack to send a message directly to the admin channel.
 * Direct Message [@WeAllJS](https://twitter.com/wealljs) on Twitter with the details and any relevant links.
@@ -82,8 +85,8 @@ other information that may be used to better understand and resolve the
 situation.
 
 The admin team will do its best to address the issue in a timely manner and
-follow the [enforcement procedure](/enforcement.html). They will, within
-reason, keep you up to date on progress and respect reasonable boundaries.
+follow the [enforcement procedure](/enforcement.html). They will, within reason,
+keep you up to date on progress and do their best respect reasonable boundaries.
 
 Admins and other leaders who do not follow or enforce the Code of Conduct in
 good faith may face temporary or permanent repercussions as determined by other
