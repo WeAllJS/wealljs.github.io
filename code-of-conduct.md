@@ -1,13 +1,13 @@
-# Contributor Covenant Code of Conduct
+# WeAllJS Code of Conduct
 
 ## Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as
 contributors and maintainers pledge to making participation in our project and
 our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, gender identity and expression, level of experience,
-nationality, personal appearance, race, religion, or sexual identity and
-orientation.
+size, disability, ethnicity, gender identity and expression, level of
+experience, technical preferences, nationality, personal appearance, race,
+religion, or sexual identity and orientation.
 
 ## Our Standards
 
@@ -18,57 +18,80 @@ include:
 * Being respectful of differing viewpoints and experiences
 * Gracefully accepting constructive criticism
 * Focusing on what is best for the community
-* Showing empathy towards other community members
+* Showing empathy and kindness towards other community members
 
 Examples of unacceptable behavior by participants include:
 
 * The use of sexualized language or imagery and unwelcome sexual attention or
-advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
+  advances, including when simulated online. The only exception to sexual topics
+  is channels/spaces specifically for topics of sexual identity.
+* Trolling, insulting/derogatory comments, and personal or political attacks.
+* Public or private harassment, deliberate intimidation, or threats.
 * Publishing others' private information, such as a physical or electronic
-  address, without explicit permission
+  address, without explicit permission. This includes any sort of "outing" of
+  of any aspect of someone's identity without their consent.
+* Publishing of non-harassing private communication.
+* Any of the above even when [presented as "ironic" or "joking"](https://en.wikipedia.org/wiki/Hipster_racism).
+* Any attempt to present "reverse-ism" versions of the above as violations. Examples of reverse-isms are "reverse racism", "reverse sexism", "heterophobia", and "cisphobia".
 * Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+  professional or community setting.
 
 ## Our Responsibilities
 
-Project maintainers are responsible for clarifying the standards of acceptable
+Community admins are responsible for clarifying the standards of acceptable
 behavior and are expected to take appropriate and fair corrective action in
 response to any instances of unacceptable behavior.
 
-Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
-that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
-threatening, offensive, or harmful.
+Admins have the right and responsibility to remove any messages, channels,
+images, or other contributions that are not aligned to this Code of Conduct, or
+to ban temporarily or permanently any contributor for other behaviors that they
+deem inappropriate, threatening, offensive, or harmful. Members expelled from
+events or venues with any sort of paid attendance will not be refunded.
 
 ## Scope
 
-This Code of Conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community. Examples of
-representing a project or community include using an official project e-mail
-address, posting via an official social media account, or acting as an appointed
-representative at an online or offline event. Representation of a project may be
-further defined and clarified by project maintainers.
+This Code of Conduct applies both within community spaces and in public spaces
+involving the community. This includes the WeAllJS Slack, its Twitter community,
+private email communications in the context of the community, and any events
+where members of the community are participating, as well as adjacent
+communities and venues affecting the community's members.
+
+Depending on the violation, the admins may decide that violations of this code
+of conduct that have happened outside of the scope of the community may deem an
+individual unwelcome in the community, and take appropriate action to maintain
+the comfort and safety of its members.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at [INSERT EMAIL ADDRESS]. All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
-obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
+**The Admin team will prioritize the well-being and comfort of the recipients of
+the violation over the comfort of the violator.**
 
-Project maintainers who do not follow or enforce the Code of Conduct in good
-faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
+The detailed enforcement procedure for any violation of the WeAllJS community
+standards can be found at the [Enforcement Procedures](/enforcement.html) page.
+
+[tl;dr](https://en.wikipedia.org/wiki/TL%3BDR): Use one of the following methods
+to contact the admin staff when you believe a violation has occurred:
+
+* Use the `/admin` command in the WeAllJS Slack to send a message directly to the admin channel.
+* Direct Message [@WeAllJS](https://twitter.com/wealljs) on Twitter with the details and any relevant links.
+* Email the admins directly at [coc@wealljs.org](mailto:coc@wealljs.org)
+* Directly message any admin in private (through either Twitter, Slack, or email, as available) if it is a preferred or more comfortable avenue.
+
+Please include any relevant details, links, screenshots, context, or
+other information that may be used to better understand and resolve the
+situation.
+
+The admin team will do its best to address the issue in a timely manner and
+follow the [enforcement procedure](/enforcement.html). They will, within
+reason, keep you up to date on progress and respect reasonable boundaries.
+
+Admins and other leaders who do not follow or enforce the Code of Conduct in
+good faith may face temporary or permanent repercussions as determined by other
+members of the community's leadership.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at [http://contributor-covenant.org/version/1/4][version]
-
-[homepage]: http://contributor-covenant.org
-[version]: http://contributor-covenant.org/version/1/4/
+This Code of Conduct is adapted from the [Contributor Covenant][homepage],
+version 1.4, available at
+[http://contributor-covenant.org/version/1/4][version], and the LGBTQ in
+Technology Slack [Code of Conduct](http://lgbtq.technology/coc.html).
