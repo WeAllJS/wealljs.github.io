@@ -42,7 +42,10 @@ people either living in, or visiting those locations/places.
 Identity channels are usually private, and reserved specifically for people who
 want to talk with folks they identify with on particular axes. All identity
 channels are private channels, and require an existing member to invite someone
-(in the future, `@wheelie-bot` will help with invites).
+(in the future, `@wheelie-bot` will help with invites). These channels can also
+be made by everybody. Feel free to create your own! If you want to announce its
+existence, notify an admin, and they'll post to `#announcements` about it and
+tell people how they can get invited in.
 
 Identity channels are places where you can get to know people in the community
 that are like you, that share your understanding and concerns. They are places
