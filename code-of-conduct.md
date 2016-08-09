@@ -99,7 +99,7 @@ members of the community's leadership.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
+This Code of Conduct is adapted from the [Contributor Covenant](http://contributor-covenant.org),
 version 1.4, available at
-[http://contributor-covenant.org/version/1/4][version], and the LGBTQ in
+[http://contributor-covenant.org/version/1/4](http://contributor-covenant.org/version/1/4), and the LGBTQ in
 Technology Slack [Code of Conduct](http://lgbtq.technology/coc.html).
