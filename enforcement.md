@@ -8,7 +8,7 @@ permalink: /enforcement
 1. Tell someone "hey, that's not ok".
 2. That person should apologize immediately and correct the behavior.
 3. If this doesn't happen, isn't safe to do, or is not satisfactory, message admins.
-4. Admins will take appropriate in a timely manner, prioritizing those who were hurt.
+4. Admins will take appropriate action in a timely manner, prioritizing those who were hurt.
 
 # Introduction
 
