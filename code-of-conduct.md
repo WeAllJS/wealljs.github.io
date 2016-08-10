@@ -91,7 +91,7 @@ situation.
 
 The admin team will do its best to address the issue in a timely manner and
 follow the [enforcement procedure](/enforcement). They will, within reason,
-keep you up to date on progress and do their best respect reasonable boundaries.
+keep you up to date on progress and do their best to respect reasonable boundaries.
 
 Admins and other leaders who do not follow or enforce the Code of Conduct in
 good faith may face temporary or permanent repercussions as determined by other
