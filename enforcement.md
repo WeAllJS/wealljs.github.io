@@ -1,16 +1,20 @@
 ---
-title: "WeAllJS - Enforcement"
+layout: default
+title: "Enforcement"
 permalink: /enforcement
+color: black
 ---
 
-# tl;dr
+# Code of Conduct Enforcement
+
+## tl;dr
 
 1. Tell someone "hey, that's not ok".
 2. That person should apologize immediately and correct the behavior.
 3. If this doesn't happen, isn't safe to do, or is not satisfactory, message admins.
 4. Admins will take appropriate action in a timely manner, prioritizing those who were hurt.
 
-# Introduction
+## Introduction
 
 No matter how kind or nice people think they are, at some point, someone's gonna
 say Some Shit:tm: and things are going to go awry. This document is meant as a
@@ -21,7 +25,7 @@ Conduct](/code-of-conduct). It is a living document, informed by new problems,
 new conflicts, and always strives to help make the We All JS community
 successful while including the voices of those who are too often not heard.
 
-# Guiding Principles
+## Guiding Principles
 
 This guide is opinionated, and it considers the following to be core values that guide the specific conflict resolution procedure, and future changes to it.
 
@@ -35,7 +39,7 @@ This guide is opinionated, and it considers the following to be core values that
 8. **Education is Emotional Labor**: and the one who was hurt does not owe you an explanation or a 101. It's ok to expect people to do their own thinking and research when told there was a wrong, and correct the behavior, instead of placing undue burden on someone who's already been hurt or who is already frustrated with the situation.
 9. **Support is something we can promise -- not Safety**: We don't believe safety, as a general thing is something we can reasonable promise members of a community. Harm comes suddenly, often unexpectedly. Instead, we believe it's a more worthwhile endeavor to try and prevent harm from happening through education, documentation, and policy, and build trust with the community that **when** something happens, they won't have to fight tooth and nail for even basic fairness.
 
-# When an Admin Gets involved
+## When an Admin Gets involved
 
 1. Admin will identify themself as an admin of this community, and assert their role in maintaining the well-being of this space.
 2. The Admin will remind the user of the CoC and point out their behavior

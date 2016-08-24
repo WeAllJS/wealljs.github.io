@@ -14,9 +14,9 @@
 .container .column       { float: left; display: inline; margin-left: 10px; margin-right: 10px; }
 .row                     { margin-bottom: 20px; }
 
-.container .small.column { width: 300px; }
+.container .small.column { width: 38%; }
 .container .half.column  { width: 460px; }
-.container .big.column   { width: 620px; }
+.container .big.column   { width: 58%; }
 .container .full.column  { width: 940px; }
 
 
