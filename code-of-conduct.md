@@ -37,6 +37,8 @@ Examples of unacceptable behavior by participants include:
 * Publishing others' private information, such as a physical or electronic
   address, without explicit permission. This includes any sort of "outing" of
   of any aspect of someone's identity without their consent.
+* Publishing screenshots or quotes, specially from identity channels, without a user's explicit consent.
+* Publishing or telling others that a member belongs to a particular identity channel without asking their consent first.
 * Publishing of non-harassing private communication.
 * Any of the above even when [presented as "ironic" or "joking"](https://en.wikipedia.org/wiki/Hipster_racism).
 * Any attempt to present "reverse-ism" versions of the above as violations. Examples of reverse-isms are "reverse racism", "reverse sexism", "heterophobia", and "cisphobia".
