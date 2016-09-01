@@ -41,6 +41,8 @@ Examples of unacceptable behavior by participants include:
 * Any of the above even when [presented as "ironic" or "joking"](https://en.wikipedia.org/wiki/Hipster_racism).
 * Any attempt to present "reverse-ism" versions of the above as violations. Examples of reverse-isms are "reverse racism", "reverse sexism", "heterophobia", and "cisphobia".
 * Unsolicited explanations under the assumption that someone doesn't already know it. Ask before you teach! Don't assume what people's knowledge gaps are.
+* [Feigning or exaggerating surprise](https://www.recurse.com/manual#no-feigned-surprise) when someone admits to not knowing something.
+* "[Well-actuallies](https://www.recurse.com/manual#no-well-actuallys)"
 * Other conduct which could reasonably be considered inappropriate in a
   professional or community setting.
 
