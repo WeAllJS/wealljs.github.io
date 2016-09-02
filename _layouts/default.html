@@ -19,35 +19,19 @@
 
     <div class="nav">
       <ul>
-        {% for p in site.pages %}
-          <li>
-            <a href="{{ p.url }}">{{ p.title }}</a>
-          </li>
-        {% endfor %}
+        <li><a href="/">Home</a></li>
+        <li><a href="/code-of-conduct.html">Code of Conduct</a></li>
+        <li><a href="/enforcement.html">CoC Enforcement</a></li>
+        <li><a href="/culture-and-process.html">Culture and Processes</a></li>
       </ul>
     </div>
 
-      <div  class="section ">
-        {% if page.icon %}
-        <div class="subtlecircle sectiondivider">
-          <img src="{{page.icon}}" alt="section icon" />
-          <h5 class="icon-title">{{ page.title }}</h5>
-        </div>
-        {% elsif page.fa-icon %}
-        <div class="subtlecircle sectiondivider faicon">
-          <span class="fa-stack">
-            <i class="fa fa-circle fa-stack-2x"></i>
-            <i class="fa fa-{{ page.fa-icon }} fa-stack-1x"></i>
-          </span>
-          <h5 class="icon-title">{{ page.title }}</h5>
-        </div>
-        {% endif %}
-        <div class="container we-band we-band-narrow we-band-white text-black">
-        <h1>Yay! Welcome! You've signed up!</h1>
 
-        <p>Please be sure to check out the <a href="/code-of-conduct.html">Code of Conduct</a> and <a
-        href="/enforcement.html">enforcement</a> policies as well as the <a href="/culture-and-process.html">Culture and Processes</a> notes about how the WeAllJS handles regular community stuff, how
-        it’s organized, and all that.</p>
+
+      <div class="section">
+
+        <div class="container we-band we-band-narrow we-band-white text-black">
+          {{ content }}
         </div>
       </div>
 

@@ -1,6 +1,8 @@
 ---
-title: "WeAllJS - Code of Conduct"
+layout: default
+title: "Code of Conduct"
 permalink: /code-of-conduct
+color: black
 ---
 
 # WeAllJS Code of Conduct
