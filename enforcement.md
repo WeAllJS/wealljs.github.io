@@ -42,10 +42,12 @@ This guide is opinionated, and it considers the following to be core values that
 ## When an Admin Gets involved
 
 1. Admin will identify themself as an admin of this community, and assert their role in maintaining the well-being of this space.
-2. The Admin will remind the user of the CoC and point out their behavior
+2. The Admin will remind the user of the CoC and point out their behavior, either directly in the channel, or in a DM, at their discretion.
 3. Admin should stick to/reference what was said in the conversation
 4. Admin should suggest an alternative behavior (rephrasing using specific language, moving the conversation to another channel if it's offtopic)
 5. If behavior persists, the violators will be removed from the specific channel (`/remove`).
 6. Admin will give them a warning via DM and have them read the CoC again.
 7. If a problem still persists with user after a warning, their account should be disabled for 12-24 hours, with an explanation to return after that time.
 8. If the problem still continues with a user, or the violation is so flagrant, endangering, or otherwise harmful, the user's account will be permanently disabled. Determining whether a violation is serious enough to warrant permanent banning is ultimately up to the admin, who should consult with those who felt harmed by the particular actions.
+
+If admin action is taken about a specific event in a channel, an admin should leave a note in the channel about the behavior, state that it violated the CoC and that the issue has been addressed, and that if people have further questions, they should direct their questions to `#meta-enforcement-talk`. If the event happened in an identity channel and the participants believe that it's better off being in a private channel, they may request admins to invite them to the private version of that channel so as not to expose their membership, or details about the situation, to the general slack.
