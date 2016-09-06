@@ -6,7 +6,7 @@
 
     <div class="inner">
         <div class="container">
-            <ul class="social-icons">
+           <!--  <ul class="social-icons">
                 {% if site.author.twitter %}
                 <li>
                     <a href="http://twitter.com/{{ site.author.twitter }}" data-toggle="tooltip" title="{{ site.author.name}} on Twitter" target="_blank">
@@ -58,11 +58,7 @@
                     </a>
                 </li>
                 {% endif %}
-            </ul>
-            <div>
-                <a href="{{ site.url }}/about/">{{ site.author.name }}</a> &copy; {{ site.time | date: '%Y' }} &bull;
-                All rights reserved.
-            </div>
+            </ul> -->
             <ul class="menu-items">
                 {% for link in site.links %}
                 <li>
@@ -73,7 +69,6 @@
                     {% endif %}
                 </li>
                 {% endfor %}
-                <li><a href="{{ site.url }}/feed.xml" title="Atom/RSS feed"><i class="fa fa-rss"></i> Feed</a></li>
             </ul>
         </div>
     </div>

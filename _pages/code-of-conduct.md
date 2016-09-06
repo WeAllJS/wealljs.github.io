@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: pageminimal
 title: "Code of Conduct"
 permalink: /code-of-conduct
-color: black
 ---
 
 # WeAllJS Code of Conduct

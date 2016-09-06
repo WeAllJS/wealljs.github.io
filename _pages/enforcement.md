@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: pageminimal
 title: "Enforcement"
 permalink: /enforcement
-color: black
 ---
 
 # Code of Conduct Enforcement
