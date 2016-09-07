@@ -1,37 +1,119 @@
----
+title:            We All JS
+description:      A JavaScript Community for Everyone
+logo:             
+disqus_shortname: 
+# Assign a default image for your site's header and footer
+default_bg:       three-coders.jpg
+search:           false
+share:            true
+# Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
+readtime:         false
+# Turn on or off the fin animations in the header and footer
+triangleheader:   true
+animated_fins:    true
+# Specify the fin color in RGB value
+fin_color:        "255,255,255"
+# Change url to your domain. Leave localhost server or blank when working locally.
+url:          http://wealljs.org #http://0.0.0.0:4000 #
+# baseurl:           
 
-port: 4000
-host: 0.0.0.0
-safe: false
+# Gems used
+gems:
+#   - jekyll-feed
+#   - jekyll-archives
+  - jekyll-paginate
+#   - jekyll-sitemap
+#   - jekyll-gist
+#   - jekyll-seo-tag
 
+# Archives configuration
+# https://github.com/jekyll/jekyll-archives/blob/master/docs/configuration.md
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: 'archive'
+  permalinks:
+    # year: '/:year/'
+    # month: '/:year/:month/'
+    # day: '/:year/:month/:day/'
+    tag: '/archive/tag/:name/'
+    category: '/archive/category/:name/'
 
-### site serving configuration ###
-exclude: [CNAME, README.md, .gitignore]
-permalink: /:title ## disables post output
-timezone: null
-lsi: false
-markdown: kramdown
+# Owner/author information
+author:
+  name:           
+  picture:        
+  email: signup@wealljs.org         
+  # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
+  description:    
+  # Social networking links used in footer. Update and remove as you like.
+  twitter: https://twitter.com/wealljs
+  facebook:
+  github:
+  linkedin:
+  instagram:
+  tumblr:
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus: 
 
+# Analytics and webmaster tools stuff goes here
+  google_analytics:
+  google_verify:
 
-### content configuration ###
-title:       "We All Js - A JavaScript Community for All of Us"
-keywords:    "wealljs, javascript, js, social justice, woc, poc, lgbtq, women in tech, diversity, inclusivity"
-description: "We All JS is a JavaScript community centered around inclusion, positive community building, mutual support, and opening up new opportunities."
-source_link: "https://github.com/wealljs/wealljs.github.io"
-favicon:     "img/favicon.ico"
-touch_icon:  "img/apple-touch-icon.png"
-#google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+    external: false
+    icon: home
+  - title: Code of Conduct
+    url: /code-of-conduct
+  - title: Culture and Process
+    url: /culture-and-process
+  - title: Enforcement
+    url: /enforcement
+  - title: Resource Channels
+    url: /resource-channels
+  - title: RFC[r]-RFC Process
+    url: /rfc-process
+  - title: RFC[r]-Signup Policy
+    url: /rfc-signup
+  - title: RFC[r]-Docents
+    url: /rfc-docents
 
+# Sitemap configuration
+# https://github.com/kinnetica/jekyll-plugins
+sitemap:
+    file: "/sitemap.xml"
+    exclude:
+        - "/atom.xml"
+        - "/feed.xml"
+        - "/feed/index.xml"
+    include_posts:
+        - "/index.html"
 
-### template colors, used site-wide via css ###
-colors:
-  black:     '#111111'
-  white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
-  orange:    '#fab125'
-  turquoise: '#0fbfcf'
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/New_York
+future:      true
+markdown:    kramdown
+highlighter: rouge
+paginate:    6
+paginate_path: "/blog/:num/"
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+collections:
+  posts:
+    output: true
+    permalink: /blog/:title
+  pages:
+    output: true
+    permalink: /:title
 
 kramdown:
-  auto_ids:  false
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
