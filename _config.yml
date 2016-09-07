@@ -44,11 +44,11 @@ jekyll-archives:
 author:
   name:           
   picture:        
-  email:          
+  email: signup@wealljs.org         
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    
   # Social networking links used in footer. Update and remove as you like.
-  twitter:
+  twitter: https://twitter.com/wealljs
   facebook:
   github:
   linkedin:
