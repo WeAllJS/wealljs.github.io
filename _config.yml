@@ -1,7 +1,7 @@
 title:            We All JS
 description:      A JavaScript Community for Everyone
-logo:             
-disqus_shortname: 
+logo:
+disqus_shortname:
 # Assign a default image for your site's header and footer
 default_bg:       three-coders.jpg
 search:           false
@@ -15,7 +15,7 @@ animated_fins:    true
 fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
 url:          http://wealljs.org #http://0.0.0.0:4000 #
-# baseurl:           
+# baseurl:
 
 # Gems used
 gems:
@@ -42,20 +42,20 @@ jekyll-archives:
 
 # Owner/author information
 author:
-  name:           
-  picture:        
-  email: signup@wealljs.org         
+  name:
+  picture:
+  email: signup@wealljs.org
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    
+  description:
   # Social networking links used in footer. Update and remove as you like.
-  twitter: https://twitter.com/wealljs
+  twitter: wealljs
   facebook:
   github:
   linkedin:
   instagram:
   tumblr:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus: 
+  google_plus:
 
 # Analytics and webmaster tools stuff goes here
   google_analytics:
