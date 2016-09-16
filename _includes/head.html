@@ -1,5 +1,5 @@
 <meta charset="utf-8"> 
-<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+<title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 {% if page.tags %}
 <meta name="keywords" content="{{ page.tags | join: ', ' }}">
 {% endif %}
