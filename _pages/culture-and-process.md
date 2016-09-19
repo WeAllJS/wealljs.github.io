@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: pageminimal
 title: "Culture and Process"
 permalink: /culture-and-process
-color: black
 ---
 
 # WeAllJS Culture and Process
