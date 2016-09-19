@@ -76,11 +76,11 @@ links:
     url: /enforcement
   - title: Resource Channels
     url: /resource-channels
-  - title: RFC[r]-RFC Process
+  - title: RFC Process
     url: /rfc-process
-  - title: RFC[r]-Signup Policy
+  - title: Signup Policy
     url: /rfc-signup
-  - title: RFC[r]-Docents
+  - title: Docents
     url: /rfc-docents
 
 # Sitemap configuration
