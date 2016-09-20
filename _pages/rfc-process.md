@@ -1,10 +1,10 @@
 ---
 layout: pageminimal
-title: "RFC [r] - WeAllJS RFC Process"
+title: "RFC Process"
 permalink: /rfc-process
 ---
 
-# RFC [r] - WeAllJS RFC Process 
+# RFC Process
 
 [ratified 2016-09-03]
 {: .text-italic}

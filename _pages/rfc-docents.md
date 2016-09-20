@@ -1,10 +1,10 @@
 ---
 layout: pageminimal
-title: "RFC [r] - WeAllJS Channel Docents"
+title: "Channel Docents"
 permalink: /rfc-docents
 ---
 
-# RFC [r] - WeAllJS Channel Docents
+# Channel Docents
 
 [ratified 2016-09-03]
 {: text-italic}

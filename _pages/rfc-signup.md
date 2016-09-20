@@ -1,10 +1,10 @@
 ---
 layout: pageminimal
-title: "RFC [r]- WeAllJS Signup Policy"
+title: "Signup Policy"
 permalink: /rfc-signup
 ---
 
-# RFC [r]- WeAllJS Signup Policy
+# Signup Policy
 
 [ratified 2016-09-03]
 {: .text-italic}
