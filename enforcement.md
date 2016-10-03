@@ -22,7 +22,7 @@ writeup and guideline holding core values about what this community considers
 the best approach to resolving these conflicts in a kind and positive way, as
 much as possible. It is paired with the community's [Code of
 Conduct](/code-of-conduct). It is a living document, informed by new problems,
-new conflicts, and always strives to help make the We All JS community
+new conflicts, and always strives to help make the WeAllJS community
 successful while including the voices of those who are too often not heard.
 
 ## Guiding Principles

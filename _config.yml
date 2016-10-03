@@ -1,4 +1,4 @@
-title:            We All JS
+title:            WeAllJS
 description:      A JavaScript Community for Everyone
 logo:
 disqus_shortname:
@@ -14,7 +14,7 @@ animated_fins:    true
 # Specify the fin color in RGB value
 fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:          http://wealljs.org #http://0.0.0.0:4000 #
+url:           http://0.0.0.0:4000 #http://wealljs.org
 # baseurl:
 
 # Gems used
@@ -82,7 +82,7 @@ links:
     url: /rfc-signup
   - title: Slackbot Language Shorthands
     url: /rfc-slackbot-language-shorthands
-  - title: Pairing & Code Review
+  - title: Pairing & Review
     url: /rfc-pairing
   - title: Docents
     url: /rfc-docents
