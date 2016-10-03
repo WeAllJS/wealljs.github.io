@@ -10,18 +10,19 @@ permalink: /rfc-pairing
 {: text-italic}
 
 Learning is cool! Programming is hard! Learning with someone else is often way more productive than trying to learn alone.
-We All JS  strives to be a community where people learning something new, no matter their level of skill can find support.
+We All JS strives to be a community where people learning something new, no matter their level of skill, can find support.
 Here at We All JS, we recommend two different forms of cooperative programming.
 
 ## Code Review
-Code review is an extremely useful medium for cooperative learning. A more experienced person code reviewing code from a
-newcomer might find that new techniques and technologies have emerged that are out of their expertise. Newcomers can benefit
+
+Code review is an extremely useful medium for cooperative learning. A more experienced person reviewing code from a newcomer
+might find that new techniques and technologies have emerged that are out of their expertise. Newcomers can benefit
 from the knowledge of individuals who have put their experience to the test.
 
-You are free to ask for code review in anyway you like,  but here is our suggestion
+You are free to ask for code review in any way you like, but here is our suggestion
 * Push your code to a Github repository.
 * Open a feature branch, and start coding away.
-* Push the feature branch upstream, and open a pull request from that feature branch into master.  To do this, go to your
+* Push the feature branch upstream, and open a pull request from that feature branch into master. To do this, go to your
 project's homepage, and there should be a button that says **New pull request**. Click this button. Select master as your base
 branch, and your feature branch as the compare branch. Then, click the **Create pull request** button.
 * This should bring you to a page where you can write a description. Describe your problem, and what your pull request is aiming to
@@ -33,7 +34,7 @@ frameworks you are using.
 Hovering your mouse over the diff should display a plus sign. Clicking on this plus sign will allow the reviewer to make line notes
 * As reviews come in, respond to code review by making appropriate code changes. You are also able to reply to inline comment by
 commenting on the same line. Talk it out, and don't be afraid to ask questions either on the pull request page, or on
-the pairing page. Push up any commits you make in the process.
+the `#pairing` channel. Push up any commits you make in the process.
 * Once reviewers feel good about the code, they can send a :+1: or a +1 to indicate the commit looks ready to be merged
 into master. They can do this by going to the main pull request page, scrolling to the bottom, entering text into the
 comment box, and pressing **Comment**.
@@ -55,7 +56,7 @@ your code. When responding to code review, fear feature creep. Try your very bes
 review is complete.
 
 ## Live Pairing
-Live pairing involves two or more people on a call, looking at the same code. Feel free to put out calls for live pairing
+Live pairing involves two or more people on a call, looking at the same code. Feel free to make requests for live pairing
 in the channel. You can be someone looking to pair on someone else's work, or someone looking to pair on your own work.
 We ask that, when searching for live pairing, that you please be open to working with people of all skill levels.
 Additionally, we require that you respect all We All JS rules while pairing with other members of the Slack. 
