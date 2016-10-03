@@ -4,14 +4,12 @@ title: "WeAllJS #pairing"
 permalink: /rfc-pairing
 ---
 
-# We All JS #pairing
+# WeAllJS #pairing
 
 [ratified 2016-09-17]
 {: text-italic}
 
-Learning is cool! Programming is hard! Learning with someone else is often way more productive than trying to learn alone.
-We All JS strives to be a community where people learning something new, no matter their level of skill, can find support.
-Here at We All JS, we recommend two different forms of cooperative programming.
+Learning is cool! Programming is hard! Learning with someone else is often way more productive than trying to learn alone. WeAllJS strives to be a community where people learning something new, no matter their level of skill, can find support. Here at WeAllJS, we recommend two different forms of cooperative programming.
 
 ## Code Review
 
@@ -29,24 +27,17 @@ You are free to ask for code review in any way you like, but here is our suggest
   * Once reviewers feel good about the code, they can send a :+1: or a +1 to indicate the commit looks ready to be merged into master. They can do this by going to the main pull request page, scrolling to the bottom, entering text into the comment box, and pressing **Comment**.
   * Once you feel good about your pull request, you can feel free to merge it into master, either through the **Merge pull request** button on the pull request page, or through some other git interface of your choice; like, merging into master and pushing the changes back up on the command line.
 
-In this process, we ask that you respect all We All JS rules during code review. Additionally, remember to be constructive
-with your review, and to not be combative when receiving review. We want to foster a place where less experienced coders
-can feel free to review and comment on the work of their more experienced peers.
+In this process, we ask that you respect all WeAllJS rules during code review. Additionally, remember to be constructive with your review, and to not be combative when receiving review. We want to foster a place where less experienced coders can feel free to review and comment on the work of their more experienced peers.
 
-When considering whether or not you should code review something, the only thing we ask is that you try your best to be
-constructive. You do not need to review an entire PR, but we ask that, until code review is complete, you try as best as
-possible to follow through on responding to any review you may have posted.
+When considering whether or not you should code review something, the only thing we ask is that you try your best to be constructive. You do not need to review an entire PR, but we ask that, until code review is complete, you try as best as possible to follow through on responding to any review you may have posted.
 
-When considering posting a set of commits up for review, we ask that you try and remain focused in your commits. It is
-hard to review a massive set of changes, and review is most effective when reviewers are able to comprehensively review
-your code. When responding to code review, fear feature creep. Try your very best to not add any new features until code
-review is complete.
+When considering posting a set of commits up for review, we ask that you try and remain focused in your commits. It is hard to review a massive set of changes, and review is most effective when reviewers are able to comprehensively review your code. When responding to code review, fear feature creep. Try your very best to not add any new features until code review is complete.
 
 ## Live Pairing
-Live pairing involves two or more people on a call, looking at the same code. Feel free to make requests for live pairing
-in the channel. You can be someone looking to pair on someone else's work, or someone looking to pair on your own work.
+Live pairing involves two or more people on a call, looking at the same code. Feel free to make requests for live pairing in the channel. You can be someone looking to pair on someone else's work, or someone looking to pair on your own work.
+
 We ask that, when searching for live pairing, that you please be open to working with people of all skill levels.
-Additionally, we require that you respect all We All JS rules while pairing with other members of the Slack.
+Additionally, we require that you respect all WeAllJS rules while pairing with other members of the Slack.
 
 Here are a few suggestions for improving your experience:
 
@@ -55,5 +46,4 @@ Here are a few suggestions for improving your experience:
   * Google Hangouts is a good enough tool to get pairing done, but Screenhero is an even better option that allows for people to remotely edit code on the same screen.
 
 ## How to Find a Partner
-The slack will maintain a spreadsheet of individuals looking for live pairing or code review. Once you ask for review,
-we ask that you update the spreadsheet with contact information or a link to the pull request that requires review.
+The slack will maintain a spreadsheet of individuals looking for live pairing or code review. Once you ask for review, we ask that you update the spreadsheet with contact information or a link to the pull request that requires review.

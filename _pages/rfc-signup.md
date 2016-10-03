@@ -50,18 +50,18 @@ House Verbot does not include anyone who has simply expressed some ideological d
 So, to repeat, some examples of things that get people into House Verbot:
 {: .bold}
 
-   * Being known reported harassers
-   * Being known reported rapists
-   * Prominent advocacy of sexism/racism/etc (think White Nationalists, PUAs, and Breitbart writers)
-   * Getting permanently banned from the WeAllJS slack for either flagrant or repeated Code of Conduct violations
+  * Being known reported harassers
+  * Being known reported rapists
+  * Prominent advocacy of sexism/racism/etc (think White Nationalists, PUAs, and Breitbart writers)
+  * Getting permanently banned from the WeAllJS slack for either flagrant or repeated Code of Conduct violations
 
 Things that don't get you blacklisted:
 {: .bold}
 
-   * General sentiment, but not prominent advocacy of reverse-ism stuff (not-all-men, all-lives-matter, etc)
-   * Thinking that Codes of Conduct are bullshit (as long as you're willing to play along when participating in our space – that is a hard requirement)
-   * Being Cis, Straight, White, Male, and being called Kevin
-   * Thinking "cis" is a slur
+  * General sentiment, but not prominent advocacy of reverse-ism stuff (not-all-men, all-lives-matter, etc)
+  * Thinking that Codes of Conduct are bullshit (as long as you're willing to play along when participating in our space – that is a hard requirement)
+  * Being Cis, Straight, White, Male, and being called Kevin
+  * Thinking "cis" is a slur
 
 <div class="bordered-divider bordered-bottom"></div>
 
