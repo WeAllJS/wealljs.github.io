@@ -242,7 +242,6 @@ input[type=number]::-webkit-outer-spin-button {
 }
 .form-style-2 input.input-field{
     width: 48%;
-
 }
 
 .form-style-2 input.input-field,
@@ -633,7 +632,6 @@ html {
 .blog-title {
   font-size: 72px;
   line-height: 72px;
-  /*text-transform: uppercase;*/
   margin-bottom: 12px;
 }
 

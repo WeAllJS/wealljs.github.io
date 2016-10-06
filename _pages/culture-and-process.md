@@ -30,7 +30,7 @@ Identity channels are usually private, and reserved specifically for people who 
 
 Identity channels are places where you can get to know people in the community that are like you, that share your understanding and concerns. They are places where you can talk about things that have happened or things you'd like to see without having to compensate for all the intersections that might be present in resource channels.
 
-Identity channels fall into two categories: "toplevel" identity channels (for example, `#poc` or `#quiltbag`), and "subchannels" under those identities (`#poc-mental-health`, #lgbtq-politics`).
+Identity channels fall into two categories: "toplevel" identity channels (for example, `#poc` or `#quiltbag`), and "subchannels" under those identities (`#poc-mental-health`, `#lgbtq-politics`).
 
 #### Why Identity Channels?
 
