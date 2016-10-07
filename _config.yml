@@ -1,4 +1,4 @@
-title:            We All JS
+title:            WeAllJS
 description:      A JavaScript Community for Everyone
 logo:
 disqus_shortname:
@@ -80,6 +80,10 @@ links:
     url: /rfc-process
   - title: Signup Policy
     url: /rfc-signup
+  - title: Slackbot Language Shorthands
+    url: /rfc-slackbot-language-shorthands
+  - title: Pairing & Review
+    url: /rfc-pairing
   - title: Docents
     url: /rfc-docents
 

@@ -242,7 +242,6 @@ input[type=number]::-webkit-outer-spin-button {
 }
 .form-style-2 input.input-field{
     width: 48%;
-   
 }
 
 .form-style-2 input.input-field,
@@ -264,7 +263,7 @@ input[type=number]::-webkit-outer-spin-button {
 }
 .form-style-2 .input-field:focus,
 .form-style-2 .tel-number-field:focus,
-.form-style-2 .textarea-field:focus,  
+.form-style-2 .textarea-field:focus,
 .form-style-2 .select-field:focus{
     border: 1px solid #0C0;
 }
@@ -633,7 +632,6 @@ html {
 .blog-title {
   font-size: 72px;
   line-height: 72px;
-  text-transform: uppercase;
   margin-bottom: 12px;
 }
 
@@ -2316,7 +2314,7 @@ body.slide {
 /*      Responsive      */
 
 @media screen and (max-width:1140px) {
-    
+
   #header,
     #posts-container,
     .entry .text,
@@ -2349,7 +2347,7 @@ body.slide {
 }
 
 @media screen and (max-width:500px) {
-    
+
   a#slide {
     position: absolute;
   }

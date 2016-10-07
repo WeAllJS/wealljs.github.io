@@ -45,23 +45,23 @@ The second list is simple: it is composed of known harassers, rapists, white sup
 
 This list also includes people who have been explicitly banned from the Slack, in case they try to rejoin with a different email at a later date, for some reason.
 
-House Verbot does not include anyone who has simply expressed some ideological differences to WeAllJS' approach to things but who would be willing to follow the rules here and who we do not believe would use their presence here for malicious purposes (collecting internal data, directing harassment mobs, etc). Those folks are welcome. And you're free to disagree with our written-down Code of Conduct and associated policies.
+House Verbot does not include anyone who has simply expressed some ideological differences to WeAllJS's approach to things but who would be willing to follow the rules here and who we do not believe would use their presence here for malicious purposes (collecting internal data, directing harassment mobs, etc). Those folks are welcome. And you're free to disagree with our written-down Code of Conduct and associated policies.
 
 So, to repeat, some examples of things that get people into House Verbot:
 {: .bold}
 
-   * Being known reported harassers
-   * Being known reported rapists
-   * Prominent advocacy of sexism/racism/etc (think White Nationalists, PUAs, and Breitbart writers)
-   * Getting permanently banned from the WeAllJS slack for either flagrant or repeated Code of Conduct violations
+  * Being known reported harassers
+  * Being known reported rapists
+  * Prominent advocacy of sexism/racism/etc (think White Nationalists, PUAs, and Breitbart writers)
+  * Getting permanently banned from the WeAllJS slack for either flagrant or repeated Code of Conduct violations
 
 Things that don't get you blacklisted:
 {: .bold}
 
-   * General sentiment, but not prominent advocacy of reverse-ism stuff (not-all-men, all-lives-matter, etc)
-   * Thinking that Codes of Conduct are bullshit (as long as you're willing to play along when participating in our space – that is a hard requirement)
-   * Being Cis, Straight, White, Male, and being called Kevin
-   * Thinking "cis" is a slur
+  * General sentiment, but not prominent advocacy of reverse-ism stuff (not-all-men, all-lives-matter, etc)
+  * Thinking that Codes of Conduct are bullshit (as long as you're willing to play along when participating in our space – that is a hard requirement)
+  * Being Cis, Straight, White, Male, and being called Kevin
+  * Thinking "cis" is a slur
 
 <div class="bordered-divider bordered-bottom"></div>
 
