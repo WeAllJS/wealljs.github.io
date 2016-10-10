@@ -4,6 +4,16 @@ title: "Sign Up Success"
 permalink: /postsignup
 ---
 
-# Yay! Welcome! You've signed up!
+# Yay! You've signed up!
 
-Please be sure to check out the [Code of Conduct](/code-of-conduct.html) and [Enforcement](/enforcement.html) policies as well as the [Culture and Processes](/culture-and-process.html) notes about how the WeAllJS handles regular community stuff, how it’s organized, and all that.
+Admins will send an invite soon! Check our [signup
+policy](http://wealljs.org/rfc-signup) for more info.
+
+In the meantime, here's some stuff to keep handy:
+
+* [Code of Conduct](/code-of-conduct.html) and [Enforcement](/enforcement.html) policies
+* [Culture and Processes](/culture-and-process.html) notes about how the WeAllJS handles regular community stuff, how it’s organized, and all that.
+* The list of [private ("identity") channels](https://slack-files.com/T1WSA6TGQ-F27V6KM1C-5335c58dd0). You can request an invite to any of these using the `/admin` command once you're logged in.
+* The list of [public ("resource") channels](https://slack-files.com/T1WSA6TGQ-F27V51W22-821023e17a).
+
+See you soon!
