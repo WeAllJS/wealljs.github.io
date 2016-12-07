@@ -14,7 +14,10 @@ animated_fins:    true
 # Specify the fin color in RGB value
 fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:          http://wealljs.org #http://0.0.0.0:4000 #
+# LOCAL TESTING
+# url:           http://0.0.0.0:4000 
+# LIVE SITE
+url:           http://wealljs.org
 # baseurl:
 
 # Gems used
@@ -76,16 +79,8 @@ links:
     url: /enforcement
   - title: Resource Channels
     url: /resource-channels
-  - title: RFC Process
-    url: /rfc-process
-  - title: Signup Policy
-    url: /rfc-signup
-  - title: Slackbot Language Shorthands
-    url: /rfc-slackbot-language-shorthands
-  - title: Pairing & Review
-    url: /rfc-pairing
-  - title: Docents
-    url: /rfc-docents
+  - title: Policies
+    url: /rfc-policies
 
 # Sitemap configuration
 # https://github.com/kinnetica/jekyll-plugins

@@ -21,16 +21,19 @@ Channels that are fairly unique and don't fall into any particular category, and
    * #announcements
    * #community-management
    * #introductions
-   * #learning
+   * #learning (docent: @lunitaire)
    * #tech-inclusivity
    * #watercooler
+   * #victory
 
 <div class="bordered-divider bordered-bottom"></div>
 
 ## Design, Usability, Aesthetics
 
+   * #a11y
    * #css (docent: @sam)
    * #design
+   * #i18n
    * #typography
    * #ui
    * #ux
@@ -41,30 +44,33 @@ Channels that are fairly unique and don't fall into any particular category, and
 
    * #angular
    * #arthack (docent: @beau)
-   * #backend
+   * #backend (docent: @fen)
    * #civic-hacking
    * #ecmascript
-   * #foss-contributing
-   * #frontend
+   * #frontend (docent: @sam)
    * #functional-js
+   * #javascript
    * #mobile
    * #nodebots
    * #npm (docent: @kat)
    * #ops
    * #plt
-   * #pairing
-   * #rails
+   * #rails (docent: @felltir)
    * #react
    * #testing
+   * #typescript
 
 <div class="bordered-divider bordered-bottom"></div>
 
-## Jobs
+## Jobs and Opportunities
 
 Get a job give a job. Make it rain!
 
+   * #foss-contributing
    * #job-advice
    * #job-board
+   * #mentorship
+   * #pairing (docent: @sal)
 
 <div class="bordered-divider bordered-bottom"></div>
 
