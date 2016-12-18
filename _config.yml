@@ -17,7 +17,7 @@ fin_color:        "255,255,255"
 # LOCAL TESTING
 # url:           http://0.0.0.0:4000 
 # LIVE SITE
-url:           http://wealljs.org
+url:           https://wealljs.org
 # baseurl:
 
 # Gems used
