@@ -25,31 +25,42 @@ An RFC can extend, modify, or alter any part of the WeAllJS community policy, wh
 
 ## How do I create an RFC?
 
-Easy: Just join the #meta channel and create a new Slack Post by clicking on the + next to the message box. Prefix whatever title you're using for your RFC with RFC -, and then share it with #meta once you've drafted the initial document.
-
-There's currently no set structure to what these documents should look like, but generally an initial introductory section followed by a series of headers is a pretty good way to write readable documentation.
-
-If you're unsure if the RFC topic is relevant or appropriate, feel free to ask in #meta, gauge interest, or even use /admin to talk to an administrator about what you're thinking of proposing.
+* https://github.com/wealljs/wealljs.github.io
+* Create a PR with a new RFC document:
+  * Must be in `_pages`.
+  * Must be prefixed by `rfc-` and be a `.md` file.
+  * Must use the standard page header (refer to other RFCs)
+  * The first line should be `# RFC - <title of RFC>`
+* If the RFC involves existing or new documents on the website, include those changes in the same PR for review. They will be merged alongside the RFC when accepted.
+* Tag at least one member of the [Admin Team](https://github.com/orgs/WeAllJS/teams/admins) for review on the PR.
+* Join `#meta` in the WeAllJS Slack and announce the PR.
+* Pin the link to the PR to `#meta`.
 
 <div class="bordered-divider bordered-bottom"></div>
 
 ## How does review work?
 
-All comments on a particular RFC should be done directly on the document: Slack posts have a small speech bubble on the top right of the document window that can be used to add new comments to the document. This helps preserve any conversation that happened, save questions, etc, which will be protected from the Slack's 10k message limit. As much discussion as possible should be handled in the general context of #meta or private messages, or even private channels, but the final document must be available and visible to all members, and be shared in #meta.
+All comments on a particular RFC should be done directly on the PR: An RFC will not be accepted until reviewers are satisfied with changes. Admins hold ultimate authority over whether or not to accept an RFC, if there's ever conflict about it.
+
+Side discussion can happen externally, but the `#meta` on the WeAllJS Slack is the preferred place to talk through things outside of PR reviews/comments. Furthermore, any decisions/suggestions that are decided on externally should be recorded in the RFC itself, for record keeping.
 
 <div class="bordered-divider bordered-bottom"></div>
 
 ## How do RFCs get ratified?
 
-Once an RFC has had "some discussion" around it (which is a fairly fuzzy metric), and a general consensus has been reached, it will be put up for ratification in #meta. By default, the RFC will be considered "ratified" 24 hours after an announcement about it being up for ratification has been posted in #meta, and the RFC will be considered official WeAllJS policy.
+RFCs have a minimum 24 hour waiting period before being accepted or rejected. Once an RFC has been reviewed on Github and at least one admin has signed off on the changes, the PR will be accepted and all its connected changes merged.
 
-If it's specifically requested for a legitimate reason, or if admins determine that the topic of the RFC demands extra attention and care because of its potential impact, an RFC's "ratification period" may be extended for as long as the participants and admins feel is a reasonable length of time for consideration.
+If it's specifically requested, or if admins determine that the topic of the RFC demands extra attention and care because of its potential impact, an RFC's "ratification period" may be extended for as long as the participants and admins feel is a reasonable length of time for consideration.
+
+The RFC may be rejected altogether at the discretion of admins, or based on consensus among WeAllJS members.
 
 <div class="bordered-divider bordered-bottom"></div>
 
 ## What happens after ratification?
 
-Once an RFC is ratified, it is considered Official WeAllJS Community Policy, and will be marked as ratified in the topic. At some point, the policy described in the RFC will be moved to an appropriate location on the public WeAllJS site, where others can refer to it, and the Slack Post will be unpinned.
+Once an RFC is ratified, it is considered Official WeAllJS Community Policy, and will be marked as ratified. Any related changes should either be merged directly with the RFC PR, or done elsewhere after ratification.
+
+Once everything is wrapped up, remember to unpin the ratified PR from `#meta`.
 
 <div class="bordered-divider bordered-bottom"></div>
 
