@@ -1,11 +1,25 @@
----
-layout: pageminimal
-title: "Code of Conduct"
-permalink: /code-of-conduct
----
+# RFC - Unify CoC and Enforcement policies
 
-# WeAllJS Code of Conduct
+## Summary
 
+* Move the enforcement steps to the top of the CoC.
+* Keep the separate enforcement document as a detailed policy that includes lessons/values/nuance.
+* Stop directing people to both the CoC and enforcement policy: on the signup page, on docs, etc.
+* Put a link to the full enforcement values doc in the CoC.
+
+## Intro
+
+The first thing people should see when they go to the CoC is how it affects them. The bulk of the stuff on the CoC itself amounts to legalese that most users won't read -- so in the interest of conveying information that matters right away, it's best to lead with how CoC violations are handled. I would argue that's the main thing people even care about.
+
+Hopefully, these changes will make expectations even clearer for everyone!
+
+## Changes
+
+### Move enforcement steps to CoC
+
+There's two sections of enforcement steps in the enforcement doc. Combine them, reword them, and put them on the very top of the main CoC.
+
+```
 ## When Something Happens
 
 If you see a Code of Conduct violation, follow these steps:
@@ -18,43 +32,11 @@ If you see a Code of Conduct violation, follow these steps:
 When reporting, please include any relevant details, links, screenshots, context, or other information that may be used to better understand and resolve the situation.
 
 **The Admin team will prioritize the well-being and comfort of the recipients of the violation over the comfort of the violator.** See [some examples below](#enforcement-examples).
+```
 
-## Our Pledge
+The `Enforcement` section in the CoC should be replaced with the following:
 
-In the interest of fostering an open and welcoming environment, we as members of the WeAllJS community pledge to making participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, technical preferences, nationality, personal appearance, race, religion, or sexual identity and orientation.
-
-## Our Standards
-
-Examples of behavior that contributes to creating a positive environment include:
-
-  * Using welcoming and inclusive language.
-  * Being respectful of differing viewpoints and experiences.
-  * Gracefully accepting constructive feedback.
-  * Focusing on what is best for the community.
-  * Showing empathy and kindness towards other community members.
-
-Examples of unacceptable behavior by participants include:
-
-  * The use of sexualized language or imagery and unwelcome sexual attention or advances, including when simulated online. The only exception to sexual topics is channels/spaces specifically for topics of sexual identity.
-  * Trolling, insulting/derogatory comments, and personal or political attacks.
-  * Public or private harassment, deliberate intimidation, or threats.
-  * Publishing others' private information, such as a physical or electronic address, without explicit permission. This includes any sort of "outing" of any aspect of someone's identity without their consent.
-  * Publishing screenshots or quotes, especially from identity channels, without all quoted users' *explicit* consent.
-  * Publishing or telling others that a member belongs to a particular identity channel without asking their consent first.
-  * Publishing of non-harassing private communication.
-  * Any of the above even when [presented as "ironic" or "joking"](https://en.wikipedia.org/wiki/Hipster_racism).
-  * Any attempt to present "reverse-ism" versions of the above as violations. Examples of reverse-isms are "reverse racism", "reverse sexism", "heterophobia", and "cisphobia".
-  * Unsolicited explanations under the assumption that someone doesn't already know it. Ask before you teach! Don't assume what people's knowledge gaps are.
-  * [Feigning or exaggerating surprise](https://www.recurse.com/manual#no-feigned-surprise) when someone admits to not knowing something.
-  * "[Well-actuallies](https://www.recurse.com/manual#no-well-actuallys)"
-  * Other conduct which could reasonably be considered inappropriate in a professional or community setting.
-
-## Scope
-
-This Code of Conduct applies both within community spaces and in other spaces involving the community. This includes the WeAllJS Slack, its Twitter community, private email communications in the context of the community, and any events where members of the community are participating, as well as adjacent communities and venues affecting the community's members.
-
-Depending on the violation, the admins may decide that violations of this code of conduct that have happened outside of the scope of the community may deem an individual unwelcome, and take appropriate action to maintain the comfort and safety of its members.
-
+```
 ## Admin Enforcement Process
 
 Once the admins get involved, they will follow a documented series of steps and do their best to preserve the well-being of WeAllJS members. This section covers actual concrete steps. For further information/details on values and practices that admins will generally apply when enforcing the Code of Conduct, refer to [the full enforcement document](http://wealljs.org/enforcement).
@@ -114,7 +96,7 @@ Sometimes, though, you need to get admins involved. Admins will do their best to
 
 > Alex: "/admin hey uh. Can someone look at #javascript? Patt is getting a bit aggro. I tried to nudge them about it, but nope."
 
-> MxAdmin1: <joins #javascript> "Hey Patt, admin here. Could you tone it down? This sort of attack is really not okay in this space."
+> MxAdmin1: *joins #javascript* "Hey Patt, admin here. Could you tone it down? This sort of attack is really not okay in this space."
 
 > Patt: "Leave me alone I haven't said anything bad wtf is wrong with you."
 
@@ -135,10 +117,17 @@ Sometimes, though, you need to get admins involved. Admins will do their best to
 > MxAdmin1: "👀 Nope. NOPE NOPE NOPE. 🔥"
 
 > PepeTheFrog🐸 has been deactivated.
+```
 
-## Attribution
+### Edit redundant sections out of the CoC
 
-This Code of Conduct is adapted from the [Contributor Covenant](http://contributor-covenant.org),
-version 1.4, available at
-[http://contributor-covenant.org/version/1/4](http://contributor-covenant.org/version/1/4), and the LGBTQ in
-Technology Slack [Code of Conduct](http://lgbtq.technology/coc.html).
+* The `Our Responsibilities` section is no longer necessary.
+
+### Keep the enforcement doc
+
+Remove the enforcement steps, and keep all the "values".
+
+### Remove references that refer to both CoC and enforcement docs
+
+* Home/signup page
+* Others??? (need to list them all)
