@@ -1,0 +1,3 @@
+# RFC - A Note on Solicitation
+
+Though we sympathize with those who are undergoing a financial struggle, this community is not the place to request for economic contributions, whether they be of a personal nature or for a group you support or are involved with. Folks might feel pressured to donate because of a personal connection established here and we don't want our members to exercise that kind of influence, however unintentional. We will also not RT or approve of financial requests on WeAllJS social media.
