@@ -9,7 +9,7 @@ permalink: /enforcement
 ## Introduction
 
 No matter how kind or nice people think they are, at some point, someone's gonna
-say Some Shit:tm: and things are going to go awry. This document is meant as a
+say Some Shit™ and things are going to go awry. This document is meant as a
 writeup and guideline holding core values about what this community considers
 the best approach to resolving these conflicts in a kind and positive way, as
 much as possible. It is paired with the community's [Code of
