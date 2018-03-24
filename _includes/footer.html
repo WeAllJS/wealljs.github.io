@@ -9,7 +9,7 @@
            <ul class="social-icons">
                 {% if site.author.twitter %}
                 <li>
-                    <a href="http://twitter.com/{{ site.author.twitter }}" data-toggle="tooltip" title="{{ site.author.name}} on Twitter" target="_blank">
+                    <a href="http://twitter.com/{{ site.author.twitter }}" title="{{ site.author.name }} on Twitter" target="_blank">
                         <i class="fa fa-twitter"></i>
                     </a>
                 </li>
@@ -63,9 +63,9 @@
                 {% for link in site.links %}
                 <li>
                     {% if link.external %}
-                    <a href="{{ link.url }}">{% if link.icon %}<i class="fa fa-{{ link.icon }}"></i> {% else %} {{ link.title }}{% endif %} </a>&nbsp;&bull;
+                    <a href="{{ link.url }}" title="{{ link.title }}">{% if link.icon %}<i class="fa fa-{{ link.icon }}"></i> {% else %} {{ link.title }}{% endif %} </a>&nbsp;&bull;
                     {% else %}
-                    <a href="{{ site.url }}{{ link.url }}">{% if link.icon %}<i class="fa fa-{{ link.icon }}"></i>{% else %}{{ link.title }}{% endif %}</a>&nbsp;&bull;
+                    <a href="{{ site.url }}{{ link.url }}" title="{{ link.title }}">{% if link.icon %}<i class="fa fa-{{ link.icon }}"></i>{% else %}{{ link.title }}{% endif %}</a>&nbsp;&bull;
                     {% endif %}
                 </li>
                 {% endfor %}

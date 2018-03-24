@@ -45,7 +45,7 @@ jekyll-archives:
 
 # Owner/author information
 author:
-  name:
+  name: WeAllJS
   picture:
   email: signup@wealljs.org
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
