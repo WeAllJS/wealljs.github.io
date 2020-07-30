@@ -17,7 +17,7 @@ So WeAllJS does have a specific process when people sign up through wealljs.org 
 
 [[warning: mildly animated screen capture]]
 
-When a new user signs up through wealljs.org, Wheelie, our slack bot, posts a message witht he form info to the admin-signups channel. Basically, this is what we see:
+When a new user signs up through wealljs.org, Wheelie, our slack bot, posts a message with the form info to the admin-signups channel. Basically, this is what we see:
 
 ![Invite process](https://files.slack.com/files-pri/T1WSA6TGQ-F1YH81UMN/invite-bot.gif)
 
