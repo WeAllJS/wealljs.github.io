@@ -98,9 +98,9 @@ Admins and other leaders who do not follow or enforce the Code of Conduct in goo
 
 The vast majority of situations work out like this, in our experience. This interaction is common, and generally positive.
 
-> Alex: "Yeah I used X and it was really crazy!"
+> Alex: "Yeah I used X and it was [negative association with mental health]"
 
-> Patt: "Hey, could you not use that word? What about 'ridiculous' instead?"
+> Patt: "Hey, could you not say that? What about 'ridiculous' instead?"
 
 > Alex: "oh sorry, sure." -> edits old message to say "it was really confusing!"
 
@@ -108,17 +108,17 @@ The vast majority of situations work out like this, in our experience. This inte
 
 Sometimes, though, you need to get admins involved. Admins will do their best to resolve conflicts, but people who were harmed by something **will take priority**.
 
-> Patt: "Honestly, sometimes I just really hate using $library and anyone who uses it probably sucks at their job."
+> Patt: [disparaging comment about users of $library]
 
 > Alex: "Whoa there, could you dial it back a bit? There's a CoC thing about attacking folks' tech use like that."
 
-> Patt: "I'm not attacking anyone, are you deaf?"
+> Patt: [defends words by attacking Alex's comprehension]
 
 > Alex: "/admin hey uh. Can someone look at #javascript? Patt is getting a bit aggro. I tried to nudge them about it, but nope."
 
 > MxAdmin1: <joins #javascript> "Hey Patt, admin here. Could you tone it down? This sort of attack is really not okay in this space."
 
-> Patt: "Leave me alone I haven't said anything bad wtf is wrong with you."
+> Patt: "Leave me alone I haven't said anything bad [aggressive jab]."
 
 > MxAdmin1: "/remove @patt", "/msg @patt I mean it. Please refer to the CoC over at wealljs.org/code-of-conduct if you have questions, but you can consider this an actual warning. I'd appreciate it if you reworded your messages in #javascript, since they made folks there uncomfortable. Let's try and be kind, yeah?"
 
